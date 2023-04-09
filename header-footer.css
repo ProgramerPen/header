@@ -149,6 +149,11 @@ nav {
   height: auto;
   margin: 1rem auto;
 }
+    .img-fluid {
+ max-width:50% !important;
+
+}
+
 }
 @media (max-width:767px)
 {
@@ -253,55 +258,6 @@ nav {
 /* Footer ends */
 
 /* special Purposes */
-    #KAUHEADER_TopNavBar {
-        display: none !important;
-    }
-   
-.titel_kau {
-    display: none !important;
-  }
-    
-  #KAU_BG {
-    padding: 0 !important;
-  }
-    
-  #ContentPlaceHolder1_DetailsView1 > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) {
-    /* display: none; */
-    padding: 0 !important;
-  } 
-  #ContentPlaceHolder1_ViewTable > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) {
-    /* display: none !important; */
-    padding: 0 !important;
-  }  
-  .container-fluid {
-    padding: 0 !important;
-  }  
-  #ContentPlaceHolder1_ContentRelationsCell {
-    display: none !important;
-  }
-
-  .footer {
-    display: none !important;
-    margin-top: 0 !important;
-  }
-
-  
-  #ContentPlaceHolder1_ViewTable > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(3) {
-    display: none !important;
-  }
-  
-  
-  #ContentPlaceHolder1_ViewTable > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > hr:nth-child(2) {
-    display: none !important;
-  }
-    
-
-    
-  #ContentPlaceHolder1_ViewTable > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) {
-    display: none !important;
-  }
-  #main > br:nth-child(3) {
-    display: none !important;
-   }
+ 
    
 /* End */
