@@ -1,5 +1,40 @@
 /* Navbar */
-
+nav {
+    font-family: 'Cabin', sans-serif;
+  }
+  .navbar-nav a:focus,
+  .navbar-nav a:hover {
+   color:#23527c;
+   text-decoration:none;
+  }
+  .navbar-nav > li{
+              padding-left:1px;
+              padding-right:1px;
+              letter-spacing: 1px;
+          }
+      
+          .navbar-light .navbar-brand{
+              font-family: 'Nunito', sans-serif;
+              font-weight: 600;
+              font-size: 1.3rem;
+              
+          }
+          
+          a.navbar-brand span{
+              font-size: 1.7rem;
+              font-weight: 900;
+          }
+          .navbar-dark .navbar-nav .nav-link{
+              color: #a18c8c;
+          }
+          .navbar-dark .navbar-nav .nav-link:hover {
+              color: #ffffff;
+          }
+          .nav-item:hover {
+              background-color: #749F82; 
+              color: #ffffff;
+              border-radius: 0.5rem;
+          }
   /* Navbar Ends */
 /* Footer  */
 .site-footer
