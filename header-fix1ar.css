@@ -30,7 +30,6 @@ padding-top: 0 !important;
   font-size:16px;
   text-transform:uppercase;
   margin-top:5px;
-  letter-spacing:2px
 }
 .site-footer a
 {
@@ -67,7 +66,7 @@ padding-top: 0 !important;
 }
 .site-footer .social-icons
 {
-  text-align:right
+  text-align:left
 }
 .site-footer .social-icons a
 {
